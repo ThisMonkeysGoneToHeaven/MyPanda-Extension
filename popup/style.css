@@ -1,0 +1,26 @@
+img{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    background-color: #01152D;
+    height: 30px;
+    width: auto;
+}
+
+h3{
+    color: white;
+    font-weight: bolder;
+}
+
+body{
+    background-color: #003A83;
+    margin: 0px;
+}

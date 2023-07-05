@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "MyPanda Extension",
+    "version": "1.0",
+    "browser_action":{
+        "default_icon": "panda-icon.png",
+        "default_title": "MyPanda",
+        "default_popup": "popup/index.html"
+    }
+}

@@ -2,6 +2,7 @@
     "manifest_version": 2,
     "name": "MyPanda Extension",
     "version": "1.0",
+    "description":"Technically, just a 'Hello World' chrome extension but this also acts like a prop in a running inside joke with my brother.",
     "browser_action":{
         "default_icon": "panda-icon.png",
         "default_title": "MyPanda",
